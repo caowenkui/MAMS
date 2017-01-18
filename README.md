@@ -1,2 +1,2 @@
 # MAMS
-MAMS is a hospital
+MAMS is a hospital HR manager system 
